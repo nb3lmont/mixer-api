@@ -9,7 +9,7 @@ Usage:		$var = new Mixer('MixerName')
 		
 		$stream = new Mixer('Neat0');
 		
-		echo $stream->userName.' is playing '.$this->game;
+		echo $stream->userName.' is playing '.$stream->game;
 				
 TO-DO:		Finish adding advanced stream information
 				  Add chat content
